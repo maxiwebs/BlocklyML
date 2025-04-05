@@ -13,6 +13,9 @@
  <img src="https://github.com/chekoduadarsh/BlocklyML/actions/workflows/codeql.yml/badge.svg">
    </p>
 
+[PROYECTO ORIGINAL](https://github.com/chekoduadarsh/BlocklyML)
+
+FUNCIONA OK CON PYTHON 3.8
 
 BlocklyML is a **No Code** training ground for python and Machine Learning. This tool is designed to simplify standard machine learning implementation.
 This tool can assist anyone who wants to start with Machine Learning or python. This is a forked project from [Blockly](https://github.com/google/blockly) and adapted for machine learning and Data analytics use-cases. :brain:
@@ -45,7 +48,7 @@ https://user-images.githubusercontent.com/26855534/174473003-488f675f-50a0-48f1-
 First clone this repo
 
 ```shell
-git clone https://github.com/chekoduadarsh/BlocklyML
+git clone https://github.com/maxiwebs/BlocklyML
 ```
 After cloning the repo you can either follow the Flask Method
 
