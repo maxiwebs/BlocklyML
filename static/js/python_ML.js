@@ -755,7 +755,7 @@ var VarData = {};
             return ["", Blockly.Python.ORDER_NONE]
         }
 
-        return [e + "[" + d + " " + b + " " + a + "]", Blockly.Python.ORDER_FUNCTION_CALL];
+        return [e + "["+ e +"[" + d + "] " + b + " " + a + "]", Blockly.Python.ORDER_FUNCTION_CALL];
     };
 
 
